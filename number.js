@@ -18,6 +18,7 @@ console.log('ceil: ', Math.ceil(3.14)) // 올림
 console.log('floor: ', Math.floor(3.14)) // 내림
 console.log('round: ', Math.round(3.14)) // 반올림
 console.log('random: ', Math.random()) // 랜덤
+// random을 정수로 출력
 function random() {
     return Math.floor(Math.random() * 10)
 }
