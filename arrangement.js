@@ -24,7 +24,7 @@ const c = fruits.map(function (fruit, index) {
         name : fruit
     }
 })
-// 화살표 함수로 단축 c=d
+// 화살표 함수로 단축 (c = d)
 const d = fruits.map((fruit, index) => ({
     id : index,
     name : fruit
