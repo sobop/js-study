@@ -68,4 +68,4 @@ ab? | b가 없거나 b와 일치
 \d | 숫자(Digit)에 일치
 \s | 공백(Space, Tab 등)에 일치
 (?=) | 앞쪽 일치(Lokkahead)
-(?<>=) | 뒤쪽 일치(Lokkbehind)
+(?<=) | 뒤쪽 일치(Lokkbehind)
